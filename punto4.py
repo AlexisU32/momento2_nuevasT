@@ -8,7 +8,7 @@ lista2 = []
 
 while nombre != 'si':
     
-    nombre = raw_input('Escribe un nombre y si quiere salir escriba (si) ')
+    #nombre = raw_input('Escribe un nombre y si quiere salir escriba (si) ')
     
     if nombre != 'si':
         lista.append(nombre)
